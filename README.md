@@ -46,5 +46,3 @@ Future steps may involve:
 - Incorporating additional data sources or features to enhance prediction capabilities.
 - Deploying the model in a production environment for real-time cancellation predictions.
 
-### Contributors
-- Prasad Girdhari
